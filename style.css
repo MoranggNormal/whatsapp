@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.colorum{
+    background-color: #eeeeee;
+}
+
+.colordois{
+    background-color: #f8f8f8;
+}
+
+.chat-name{
+    font-size: 0.7em;
+}
+
+.chat-hour{
+    font-size: 0.6em;
+}
+
+.zero{
+    margin: 0;
+}
+
+.main{
+    background-image: url(https://i.pinimg.com/originals/d4/af/92/d4af9274c0d1b269112db3a860c8b4df.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+}
+
+body{
+    overflow: hidden;
+}
+
+.badge{
+    height: 20px;
+}
+
+.colordoisletra{
+color: #f8f8f8;
+font-size: 1.5em;
+}
+
+.main-chat{
+    background-color: #f8f8f8;
+    position: absolute;
+    bottom: 0;
+    max-height: 7vh;
+}
+
+.main-chat h1{
+    margin-top: 6x;
+    font-size: 1em;
+}
